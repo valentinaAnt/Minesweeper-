@@ -46,12 +46,13 @@ Numbered tiles indicate how many mines are adjacent
 ## File Structure
 
 minesweeper-clone/
-│── assets/                  # Game images and icons
-│── audios/                  # Sound effects and background music
-│── elements.py              # Game elements and tile assets
-│── main.py                  # Main game loop and logic
-│── sprites.py               # Board and tile mechanics
-│── README.md                # Project documentation
+
+│── assets/                  <br />
+│── audios/                  <br />
+│── elements.py              <br />
+│── main.py                  <br />
+│── sprites.py               <br />
+│── README.md                <br />
 
 ## Future Improvements
 
