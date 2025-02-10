@@ -1,9 +1,9 @@
-# Minesweeper-
-Description
+# Minesweeper
+## Description
 
 This is a Python-based Minesweeper clone built using the Pygame library. The game features multiple difficulty levels, interactive gameplay, a timer, and a leaderboard to track the best scores.
 
-Features
+## Features
 
 Three difficulty levels: Easy, Medium, Hard
 
@@ -19,32 +19,23 @@ Background music and sound effects
 
 Graphical interface using Pygame
 
-Installation
-
-Prerequisites
+## Installation
 
 Make sure you have Python installed (version 3.x recommended). You also need to install Pygame.
 
 pip install pygame
 
-How to Run
-
-Clone the repository:
-
-git clone https://github.com/yourusername/minesweeper-clone.git
-cd minesweeper-clone
-
-Run the game:
+## Run the game:
 
 python main.py
 
-Controls
+## Controls
 
 Left Click - Reveal a tile
 
 Right Click - Place/Remove a flag
 
-Game Rules
+## Game Rules
 
 Reveal all non-mine tiles to win
 
@@ -52,7 +43,7 @@ Clicking on a mine ends the game
 
 Numbered tiles indicate how many mines are adjacent
 
-File Structure
+## File Structure
 
 minesweeper-clone/
 │── assets/                  # Game images and icons
@@ -62,7 +53,7 @@ minesweeper-clone/
 │── sprites.py               # Board and tile mechanics
 │── README.md                # Project documentation
 
-Future Improvements
+## Future Improvements
 
 Add more game modes (e.g., timed challenge, infinite mode)
 
