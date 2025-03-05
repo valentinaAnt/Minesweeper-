@@ -23,8 +23,6 @@ Graphical interface using Pygame
 
 Make sure you have Python installed (version 3.x recommended). You also need to install Pygame.
 
-pip install pygame
-
 ## Run the game:
 
 python main.py
