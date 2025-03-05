@@ -1,0 +1,3 @@
+easy,valentina,6
+easy,v,0
+easy,valya,8
